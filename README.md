@@ -3,7 +3,7 @@
 Notebook files to merge the data and perform exploratory data analysis
 Belong to article: ...
 
-Note that you first have to download all instacart data from Kaggle https://www.kaggle.com/c/instacart-market-basket-analysis/data
+Note that you first have to download all instacart data from Kaggle: https://www.kaggle.com/c/instacart-market-basket-analysis/data
 You can run both files locally if you insert the correct file path to load the data. 
 
 Files:
